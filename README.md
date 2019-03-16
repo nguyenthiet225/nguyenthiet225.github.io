@@ -1,20 +1,20 @@
 # nguyenthiet225.github.io
 <html5>
-<head>
-<title>Bài Tập Đầu Tiên</title>
-<meta charset="utf-8"/>
-<style>
-h1{
-text-align:center;
-}
-p{
-text-align:justify;
-}
-</style>
-</head>
-<body>
-<h1>
-Người Con Gái Tôi Thương
+  <head>
+  <title>Bài Tập Đầu Tiên</title>
+  <meta charset="utf-8"/>
+  <style>
+  h1{
+  text-align:center;
+  } 
+  p{
+  text-align:justify;
+  }
+  </style>
+  </head>
+  <body>
+  <h1>
+   Người Con Gái Tôi Thương
 </h1>
 <h2>
 <i>Ngày Đầu Tiên Gặp Cô Ấy</i>
