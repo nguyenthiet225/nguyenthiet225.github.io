@@ -1,4 +1,5 @@
 # nguyenthiet225.github.io
+<html5>
 <head>
 <title>Bài Tập Đầu Tiên</title>
 <meta charset="utf-8"/>
@@ -49,3 +50,4 @@ Tôi bước đêns cổng trường của cô ấy khi cô ấy đang bước r
 </p>
 <p>Copyright &copy; 1995</p>
 </body>
+</html5>
