@@ -1,0 +1,129 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    color: #32323d;
+    height:30px;
+}
+
+a:hover {
+    color: #6e55b4;
+    
+}
+.div {
+    display: flex;
+    width: 1024px;
+    height: 72px;
+    margin: auto;
+    position:relative;  
+}
+.logo {
+    padding-top: 20px;
+    padding-left: 56px;
+}
+
+
+.seach {  
+    position: absolute;
+    right: 230px;
+    width: 540px;
+    height: 40px;
+    bottom: 12px;
+    
+}
+.input-txt {
+    display: inline-block;
+    width: 540px;
+   height: 40px;
+}
+.login img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    position: absolute;
+    right: 163px;
+    bottom: 18px;
+}
+.dangnhap {
+    padding-left: 711px;
+    padding-top: 26px;
+}
+#menu-0 {
+
+    
+    list-style: none;
+    height: 54px;
+    background-color: #f7f7f7;
+    
+}
+#menu {
+    width: 1024px;
+    height: 100%;
+    background-color: #f7f7f7;
+    display: flex;
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 174px;
+    font-size: 13px;
+    font-weight: bold;
+} 
+li {
+
+    margin-left: 25px;
+    padding-top: 17px;
+
+}
+.img {
+    padding-left: 160px;
+    padding-top: 10px;
+    background-color: #f7f7f7;
+}
+
+.sub-menu {
+    position: absolute;
+    top: 150px;
+    left: 299px;
+    width: 600px;
+    height: 139px;
+    margin-top: -13px;
+    background-color: #f7f7f7;
+    display: none;
+    list-style-type: none;
+}
+#menu > li:hover > ul {
+    display: block;
+
+}  
+.chuthuong{
+    font-weight: normal;
+    display: flex;
+}
+.chuthuong1{
+    font-weight: normal;
+    display: flex;
+}
+
+
+.chuin {
+    display: flex;
+}
+.chuin li {
+    margin-left: 23px;
+    margin-right: 41px;
+}
+.chuthuong li {
+    margin-left: 32px;
+    margin-right: 64px;
+    font-size: 13px;
+    padding-top: 28px;
+}
+.chuthuong1 li {
+
+    margin-left: 33px;
+    margin-right: 96px;
+    margin-top: 10px;
+    font-size:13px;
+}
