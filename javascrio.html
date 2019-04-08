@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Javascrip</title>
+    
+</head>
+<body>
+        <script>
+                //     //Bai 1
+                   function tinhBinhPhuong(x){
+                       return(x*x)
+                   }
+                //    //bai 2
+                   function tinhTheKi(x){
+                       
+                       alert (Math.ceil(x/100));
+                   }
+                   //bai 3
+                   function catChuoi()
+            {
+                var des = "kha banh bi bat vao ngay 1-4-2019";
+                var subDes = des.substr(0,10);
+                alert(subDes + "...");
+            }
+                 
+                 //bai 4
+                 function vietHoa()
+            {
+                var des = "welcome to techmaster";
+                var subDes = des.charAt(0).toUpperCase()+des.slice(1);
+                alert(subDes);
+            }
+            //bai 5
+            function timSo(){
+            var pos =[40,100,1,5,25,10];
+            var pass = Math.min(pos);
+            alert(pass);
+            }
+            //bai6  
+            function xepHocVien(){
+                var t = ["Nguyen thi A", "Nguyen Van B", "Bui van C ",  "Vuong van D", "Tran tien E"] ;
+                t.sort();
+                document.write(t.join()); 
+   
+            }
+        </script>
+</body>
+</html>
