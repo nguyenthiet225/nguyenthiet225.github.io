@@ -1,0 +1,154 @@
+*{
+    box-sizing: border-box
+}
+#menu{
+    background-color: #e9ebee;
+    width: 500px;
+    height: 570px;
+}
+#ten{
+    width: 215px;
+    height: 32px;
+    margin-right: 66px;
+    margin-left: 23px;
+}
+#ho{
+    width: 222px;
+    height: 32px;
+    margin-left: -51px;
+}
+#paw{
+    width: 457px;
+    height: 32px;
+    margin-left: 24px;
+
+}
+#mai{
+    width: 457px;
+    height: 32px;
+    margin-left: 24px;
+
+}
+.inpu{
+    padding-top: 20px;
+    margin-bottom: 12px;
+}
+a{
+    text-decoration: none;
+}
+select{
+    height: 28px;
+}
+#born{
+    margin-left: 26px;
+}
+#wh{
+    position: absolute;
+    left: 199px;
+    top: 318px;
+    font-size: 12px;
+}
+._58mf ._6o {
+    font-size: 19px;
+}
+._6v {
+    font-weight: bold;
+}
+._6o {
+    font-size: 19px;
+    line-height: 0%;
+}
+._58mi {
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+}
+._6wl {
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+}
+._6wk {
+    padding: 20px 30px;
+}
+._6j {
+    border: 1px solid;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    letter-spacing: 1px;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+}
+.mvm {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+button {
+    margin: 0;
+}
+body, button, input, label, select, td, textarea {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 12px;
+}
+user agent stylesheet
+button {
+    padding: 1px 6px;
+}
+user agent stylesheet
+button {
+    align-items: flex-start;
+    text-align: center;
+    cursor: default;
+    color: buttontext;
+    background-color: buttonface;
+    box-sizing: border-box;
+    padding: 2px 6px 3px;
+    border-width: 2px;
+    border-style: outset;
+    border-color: buttonface;
+    border-image: initial;
+}
+user agent stylesheet
+button {
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+}
+user agent stylesheet
+button {
+    -webkit-writing-mode: horizontal-tb !important;
+}
+user agent stylesheet
+button {
+    -webkit-appearance: button;
+}
+#facebook ._-kb div {
+    font-family: inherit;
+}
+._4bl7, ._4bl9 {
+    word-wrap: break-word;
+}
+body {
+    background: #fff;
+    color: #1c1e21;
+    direction: ltr;
+    line-height: 1.34;
+    margin: 0;
+    padding: 0;
+    unicode-bidi: embed;
+}
+user agent stylesheet
+html {
+    color: -internal-root-color;
+}

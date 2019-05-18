@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+#dangki{
+    background-color: aqua;
+    width: 500px;
+    margin-left: 500px;
+}
+.ten {
+    width: 279px;
+    height: 32px;
+}
+#all{
+    margin-left: 107px;
+}
+h1{
+    text-align: center;
+}
