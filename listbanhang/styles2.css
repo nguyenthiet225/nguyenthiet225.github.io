@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.menu_content {
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    padding: 50px;
+}
+h1{
+    text-align: center;
+}
